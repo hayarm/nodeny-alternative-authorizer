@@ -1,0 +1,27 @@
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\bin\Debug\Authorizer.exe
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\bin\Debug\Authorizer.pdb
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\obj\Debug\Authorizer.MainWindow.resources
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\obj\Debug\Authorizer.Properties.Resources.resources
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\obj\Debug\Authorizer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\obj\Debug\Authorizer.exe
+C:\Documents and Settings\Thoria\Local Settings\Application Data\Temporary Projects\Authorizer\obj\Debug\Authorizer.pdb
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.exe
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.pdb
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\bin\Debug\Authorizer.exe
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\bin\Debug\Authorizer.pdb
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.MainWindow.resources
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.Properties.Resources.resources
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Thoria\My Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.DomainWindow.resources
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.exe
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.pdb
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\bin\Debug\Authorizer.exe
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\bin\Debug\Authorizer.pdb
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.MainWindow.resources
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.DomainWindow.resources
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.Properties.Resources.resources
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.csproj.GenerateResource.Cache
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Debug\Authorizer.AboutBox.resources

@@ -1,0 +1,10 @@
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\bin\Release\Authorizer.exe
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\bin\Release\Authorizer.pdb
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\Authorizer.MainWindow.resources
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\Authorizer.DomainWindow.resources
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\Authorizer.Properties.Resources.resources
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\Authorizer.csproj.GenerateResource.Cache
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\Authorizer.exe
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\Authorizer.pdb
+C:\Users\shemsu\Documents\Visual Studio 2008\Projects\Authorizer\Authorizer\obj\Release\Authorizer.AboutBox.resources
